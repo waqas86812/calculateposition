@@ -19,7 +19,7 @@ function render() {
   listtotal.forEach(function (item) {
     htmlStr = htmlStr + 
     `
-    <table>
+    <table border="1" width="350">
     <thead>
         <tr>
             <th>總倉</th>
